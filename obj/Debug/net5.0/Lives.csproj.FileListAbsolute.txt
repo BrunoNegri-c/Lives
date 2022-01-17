@@ -1,0 +1,16 @@
+C:\Lives\bin\Debug\net5.0\Lives.exe
+C:\Lives\bin\Debug\net5.0\Lives.deps.json
+C:\Lives\bin\Debug\net5.0\Lives.runtimeconfig.json
+C:\Lives\bin\Debug\net5.0\Lives.runtimeconfig.dev.json
+C:\Lives\bin\Debug\net5.0\Lives.dll
+C:\Lives\bin\Debug\net5.0\ref\Lives.dll
+C:\Lives\bin\Debug\net5.0\Lives.pdb
+C:\Lives\obj\Debug\net5.0\Lives.csproj.AssemblyReference.cache
+C:\Lives\obj\Debug\net5.0\Lives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lives\obj\Debug\net5.0\Lives.AssemblyInfoInputs.cache
+C:\Lives\obj\Debug\net5.0\Lives.AssemblyInfo.cs
+C:\Lives\obj\Debug\net5.0\Lives.csproj.CoreCompileInputs.cache
+C:\Lives\obj\Debug\net5.0\Lives.dll
+C:\Lives\obj\Debug\net5.0\ref\Lives.dll
+C:\Lives\obj\Debug\net5.0\Lives.pdb
+C:\Lives\obj\Debug\net5.0\Lives.genruntimeconfig.cache

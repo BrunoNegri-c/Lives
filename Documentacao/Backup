@@ -1,0 +1,16 @@
+//Nome, ponto de vida, ponto de magia e Classe
+            string nome = "Arus";
+            int PontosDeVida = 100;
+            int PontosDeMagia = 5;
+            string ClasseFantastica = "Guerreiro";
+
+            string nome2 = "Wedg";
+            int PontosDeVida2 = 80;
+            int PontosDeMagia2 = 10;
+            string ClasseFantastica2 = "Mago";
+
+            
+            string nome3 = "Wood";
+            int PontosDeVida3 = 90;
+            int PontosDeMagia3 = 10;
+            string ClasseFantastica3 = "Mago";
